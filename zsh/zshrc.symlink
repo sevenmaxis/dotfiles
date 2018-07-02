@@ -116,3 +116,6 @@ export LESS_TERMCAP_mh=$(tput dim)
 # https://github.com/koalaman/shellcheck/wiki
 #
 # export SHELLCHECK_OPTS=""
+
+# add vi mode for zsh
+bindkey -v
